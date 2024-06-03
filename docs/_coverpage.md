@@ -1,4 +1,4 @@
-![logo](media/logo.png)
+![logo](asserts/logo.png)
 
 # 个人笔记
 
